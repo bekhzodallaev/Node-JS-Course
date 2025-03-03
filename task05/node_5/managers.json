@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1734455177362,
+    "email": "admin@example.com",
+    "password": "$2b$10$IAScntyZzc9QRS6qpOPXDe0fgWMGchGc.V1gkix2pGijpAWHwIJim",
+    "super": false
+  },
+  {
+    "id": 1734460192850,
+    "email": "exampleuser@gmail.com",
+    "password": "$2b$10$HnbBlfpiLf4JtWGzGLnr7.kGaWDWg/5vv70cOwDRzT44dgq6VFD/.",
+    "super": false
+  },
+  {
+    "id": 1734516895403,
+    "email": "exampleuser02@gmail.com",
+    "password": "$2b$10$..Qi7YKk2L1vYIEpa/uvUOg99UsvmXmq.jKwEXU0ka6c/mKiFHsRa",
+    "super": false
+  },
+  {
+    "id": 1734517122463,
+    "email": "user@example.com",
+    "password": "$2b$10$obVenLomooTX850yqtdpieXD8yn8LjeymI983QNZoY826CDDvGN4e",
+    "super": false
+  },
+  {
+    "id": 1734518745827,
+    "email": "newmanager@example.com",
+    "password": "$2b$10$LyelXbRJbAPMO1DLDjUx5Okgf1LgKK8o9AK65IpGNOfSPn3NkAOsW",
+    "super": false
+  },
+  {
+    "id": 1734525138830,
+    "email": "newmanager01@example.com",
+    "password": "$2b$10$O/swOaI22AyQAtTUkQQLm.omwNNR4f.E.WtIZM9dujfgFtvWnjL5y",
+    "super": false
+  },
+  {
+    "id": 1734526066484,
+    "email": "newmanager001@example.com",
+    "password": "$2b$10$YLKY3ScfrbuWrLlRTBe12ez2fCMDhN4hDH9ujMmmMWUrVNkkZcY1S",
+    "super": false
+  },
+  {
+    "id": 1734526517865,
+    "email": "aaaa@gmail.com",
+    "password": "$2b$10$kgLVWQ/B90y2obUNuolgnu2NQOHUocVNUK9rvMRkQVe.K3xMiYBhW",
+    "super": false
+  },
+  {
+    "id": 1734527648706,
+    "email": "bb@gmail.com",
+    "password": "$2b$10$JnoErCehrnYepIs7zdeh2OkPJ4eAgIE2V9iWtMGV1nfwWZDzZAriK",
+    "super": false
+  },
+  {
+    "id": 1734527811302,
+    "email": "bbaa@gmail.com",
+    "password": "$2b$10$OSLjGM/CsfkQ17rzmOOSzugLfEOsgSGmVJ6MPAnJcIZuiV8RJW/W.",
+    "super": false
+  },
+  {
+    "id": 1734528339986,
+    "email": "bbassa@gmail.com",
+    "password": "$2b$10$FKcuRHikOj/UDi7v4EBkoeTnjo3pECV2QShk8H6mTcf9XasmfPmoS",
+    "super": true
+  },
+  {
+    "id": 1734528355180,
+    "email": "bbsssassa@gmail.com",
+    "password": "$2b$10$YIgFcGqhgLLTdCzBn9egmOCIHHEr2gr61ls2CkrXct4XQL8UUy1H.",
+    "super": true
+  },
+  {
+    "id": 1734528821538,
+    "email": "xxxxxx@gmail.com",
+    "password": "$2b$10$5TVVT1JPymf513PwBTYGFebkRp8B9UDZkr5RuP4iLxrbpkMaOdHM6",
+    "super": true
+  },
+  {
+    "id": 1734532103766,
+    "email": "xxxcccxxx@gmail.com",
+    "password": "$2b$10$sdd.Sdxu51Bi3EKFp8dZ7OB7gDp0uZRDXVKEmTW5o0WyeBPDnhh3O",
+    "super": false
+  }
+]

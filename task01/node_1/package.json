@@ -1,0 +1,22 @@
+{
+  "name": "node_first",
+  "version": "1.0.0",
+  "description": "Create to solve the task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekhzodallaev/node_1.git"
+  },
+  "author": "bekhzodallaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekhzodallaev/node_1/issues"
+  },
+  "homepage": "https://github.com/bekhzodallaev/node_1#readme",
+  "dependencies": {
+    "first_node_pack_01": "^1.0.0"
+  }
+}
